@@ -7,7 +7,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/>
     </h1>
    
-
+- 👋 Hi, I’m @loganrv10
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning kotlin
+- 💞️ I’m looking to collaborate on Android developmennt
+- 📫 How to reach me ,by my mail - subhamsingh5338@gmail.com
  
 
 ### 🛠 &nbsp; Tech Stack
@@ -24,9 +28,5 @@ You can click the Preview link to take a look at your changes.
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 
-- 👋 Hi, I’m @loganrv10
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on Android developmennt
-- 📫 How to reach me ,by my mail - subhamsingh5338@gmail.com
+
 
