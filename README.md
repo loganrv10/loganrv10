@@ -1,32 +1,38 @@
 
-<!---
-loganrv10/loganrv10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm <a href="https://subham.dorik.io/">Subham kumar</a>
-    <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/>
-    </h1>
-   
-- 👋 Hi, I’m @loganrv10
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on Android developmennt
-- 📫 How to reach me ,by my mail - subhamsingh5338@gmail.com
- 
+<h1 align="center">Hi 👋, I'm Subham Kumar</h1>
+<h3 align="center">A passionate Android developer from India</h3>
 
-### 🛠 &nbsp; Tech Stack
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=F89820)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=766DB2)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFE873)&nbsp;\
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loganrv10&label=Profile%20views&color=0e75b6&style=flat" alt="loganrv10" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loganrv10" alt="loganrv10" /></a> </p>
 
+- 🔭 I’m currently working on **Weather forcast app**
+
+- 🌱 I’m currently learning **MVVM, Dagger**
+
+- 👨‍💻 All of my projects are available at [https://subham.dorik.io/](https://subham.dorik.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@subhamsingh5338](https://medium.com/@subhamsingh5338)
+
+- 💬 Ask me about **Android, Kotlin, Java**
+
+- 📫 How to reach me **subhamsingh5338@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11jAYvCadI1CCGxSgRKgZi7D2WLZhTGZq/view?usp=sharing](https://drive.google.com/file/d/11jAYvCadI1CCGxSgRKgZi7D2WLZhTGZq/view?usp=sharing)
+
+- ⚡ Fun fact **I'm very interested in anything which runs on 2 wheels.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/subhamk36967398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhamk36967398" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-kumar-7643b1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-kumar-7643b1201/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007752468753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007752468753" height="30" width="40" /></a>
+<a href="https://instagram.com/subbhaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subbhaam" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loganrv10&show_icons=true&locale=en" alt="loganrv10" /></p>
 
 
