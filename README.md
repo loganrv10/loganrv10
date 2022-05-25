@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/loganrv10](https://github.com/loganrv10)
 
-- 📝 I regularly write articles on [https://medium.com/@subhamsingh5338](https://medium.com/@subhamsingh5338)
-
 - 💬 Ask me about **Android, Kotlin, Java**
 
 - 📫 How to reach me **subhamsingh5338@gmail.com**
